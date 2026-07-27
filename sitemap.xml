@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>https://luxuryhotels-boston.com/</loc>
+        <lastmod>2026-07-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600&amp;q=90</image:loc>
+            <image:title>The Whitney Hotel Boston — Beacon Hill Luxury Boutique</image:title>
+            <image:caption>Boutique luxury hotel in historic Beacon Hill, Boston</image:caption>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://luxuryhotels-boston.com/the-whitney-hotel-boston</loc>
+        <lastmod>2026-07-27</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600&amp;q=90</image:loc>
+            <image:title>The Whitney Hotel Boston</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=1600&amp;q=90</image:loc>
+            <image:title>Luxurious Guestrooms</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1600&amp;q=90</image:loc>
+            <image:title>Boutique Comfort</image:title>
+        </image:image>
+    </url>
+</urlset>
