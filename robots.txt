@@ -1,0 +1,33 @@
+# Robots.txt for Luxury Hotels Boston
+# https://luxuryhotels-boston.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /*.json$
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Crawl delay for aggressive bots (in seconds)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://luxuryhotels-boston.com/sitemap.xml
